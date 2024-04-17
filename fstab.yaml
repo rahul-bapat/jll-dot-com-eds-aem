@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://author-p108761-e1054708.adobeaemcloud.com/bin/franklin.delivery/rahul-bapat/jll-dot-com-eds-aem/main
+  /:
+    url: "https://author-p108761-e1054708.adobeaemcloud.com/bin/franklin.delivery/rahul-bapat/jll-dot-com-eds-aem/main"
+    type: "markup"
+    suffix: ".html"

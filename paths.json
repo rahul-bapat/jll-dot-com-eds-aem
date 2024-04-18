@@ -1,5 +1,6 @@
 {
   "mappings": [
-    "/content/jll-dot-com-eds:/"
+    "/content/jll-dot-com-eds:/",
+    "/content/jll-dot-com-eds/configuration:/.helix/config.json"
   ]
 }
